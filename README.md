@@ -1,0 +1,1 @@
+# Agentic development self learning. Each module has it's own readme with proper instructions.
